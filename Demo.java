@@ -1,5 +1,5 @@
 public class Demo{
 	public static void main(String[] args){
-		System.out.println("my is Demo.java");
+		System.out.println("之前的Demo.java");
 	}
 }
